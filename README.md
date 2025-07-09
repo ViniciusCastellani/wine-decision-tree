@@ -55,7 +55,7 @@ This Python project analyzes the physicochemical properties of Portuguese "Vinho
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ViniciusCastellani/wine-quality-classification
+   git clone https://github.com/ViniciusCastellani/wine-decision-tree
    cd wine-quality-classification
    ```
 
